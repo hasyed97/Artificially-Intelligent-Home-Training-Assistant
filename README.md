@@ -1,0 +1,2 @@
+# Artificially-Intelligent-Home-Training-Assistant
+Problem Statement Regular physical exercise decreases the danger of obesity, diabetes, hypertension, cardiovascular hazards, but in spite of the advantages of regular exercise, the vast majority struggle to keep up a consistent workout routine. This disappointment is regularly seen because of the absence motivation and feedback. One approach to handle lack of inspiration or motivation is through performance tracking.
