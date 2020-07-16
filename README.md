@@ -12,3 +12,5 @@ An Artificially Intelligent performance tracking Android app that acts as a pers
 for an amateur who wants to keep a track of his/her fitness, even from the comfort of one's home.
 The app uses deep learning pipeline to classify the exercises and prepares repitition counts per
 exercise for its user's training program.
+
+![](FYP%20poster.jpg)
